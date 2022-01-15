@@ -913,7 +913,7 @@ p {
 .header-eight {
   position: relative;
   padding:160px 0 100px 0;
-  background-image: url("bcg1.jpg");
+  background-image: url("Bcg1.jpg");
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-eight {
@@ -1032,7 +1032,7 @@ p {
   about-05 css
 ===========================*/
 .about-five {
-  background-image: url("bcg2blue.jpg");
+  background-image: url("Bcg2blue.jpg");
   padding-top: 120px;
   padding-bottom: 190px;
   text-align: center;
