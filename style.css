@@ -983,6 +983,7 @@ p {
 }
 .header-eight .button {
   margin-top: 40px;
+  word-spacing: 4rem;
 }
 .fa-twitter {
   filter: invert(100%) sepia(0%) saturate(28%) hue-rotate(10deg) brightness(505%) contrast(107%);
